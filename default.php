@@ -19,7 +19,7 @@
 				<p>Nine out of ten consumers rely on the internet to locate and evaluate local goods and services which means that your website is forming their first impression. Using your site to tell a story about you and your business begins the relationship.</p>
 			</div>
 			<picture>
-		        <img class="background" src="/application/themes/mischief_studios/images/still.png">
+		        <img class="background" src="<?php echo $view->getThemePath()?>/images/still.png">
 	      	</picture>
       	</div>
       	<div class="col-sm-4">
@@ -29,7 +29,7 @@
 				<p> Whether you need online restaurants reservations, in-store point of service or simply technical knowhow allow us to collaborate and help you improve the efficiency of your business.</p>
 			</div>
 			<picture>
-		        <img class="background" src="/application/themes/mischief_studios/images/still2.png">
+		        <img class="background" src="<?php echo $view->getThemePath()?>/images/still2.png">
 	      	</picture>
       	</div>
       	<div class="col-sm-4">
@@ -39,7 +39,7 @@
 				<p>Determine the effectiveness of your site based on real analytical data. Learn about the demographics of your visitors, how they’re finding your site, what’s they’re clicking on and more.</p>
 			</div>
 			<picture>
-		        <img class="background" src="/application/themes/mischief_studios/images/still3.png">
+		        <img class="background" src="<?php echo $view->getThemePath()?>/images/still3.png">
 	      	</picture>
       	</div>
     </div>
