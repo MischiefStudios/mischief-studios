@@ -7,28 +7,50 @@
 	<video src="<?php echo $view->getThemePath()?>/images/HomepageBanner.mp4" type="video/mp4" autoplay="" loop="true"></video>
 	<div class="hero-content">
 		<h2>Storytelling through website design and analysis.</h2>
+		<h3>Simple pricing and easy-to-use interfaces. Call us for a quote 612.492.1804</h3>
 	</div>
 </div>
-<div class="services container">
+<div class="services fluid-container">
 	<div class="row">
-		<div class="col-sm-12">
-			<h2 class="text-center">Services</h2>
-		</div>
-	</div>
+      	<div class="col-sm-4">
+			<div class="content">
+				<h3>First Impressions</h3>
+				<h2>The first impression says everything.</h2>
+				<p>Nine out of ten consumers rely on the internet to locate and evaluate local goods and services which means that your website is forming their first impression. Using your site to tell a story about you and your business begins the relationship.</p>
+			</div>
+			<picture>
+		        <img class="background" src="/application/themes/mischief_studios/images/still.png">
+	      	</picture>
+      	</div>
+      	<div class="col-sm-4">
+			<div class="content">
+				<h3>Custom Solutions</h3>
+				<h2>If there's no problem to be solved, move on.</h2>
+				<p> Whether you need online restaurants reservations, in-store point of service or simply technical knowhow allow us to collaborate and help you improve the efficiency of your business.</p>
+			</div>
+			<picture>
+		        <img class="background" src="/application/themes/mischief_studios/images/still2.png">
+	      	</picture>
+      	</div>
+      	<div class="col-sm-4">
+			<div class="content">
+				<h3>Data Based Decisions</h3>
+				<h2>What gets measured, gets improved.</h2>
+				<p>Determine the effectiveness of your site based on real analytical data. Learn about the demographics of your visitors, how they’re finding your site, what’s they’re clicking on and more.</p>
+			</div>
+			<picture>
+		        <img class="background" src="/application/themes/mischief_studios/images/still3.png">
+	      	</picture>
+      	</div>
+    </div>
+</div>    
+<div class="contact container">
 	<div class="row">
-		<div class="col-sm-4">
-			<h3>Custom Design</h3>
-			<p>Simple and functional designs. Clutter free. Reach your audience on all of their devices. Great performance.</p>
-			<a href="/"><span class="btn-success">Link</span></a>
-		</div>
-		<div class="col-sm-4">
-			<h3>Take Control</h3>
-			<p>Have your own host. Take control, manage your site from any computer with an internet connnection. CMS gives you the control because it's so easy.</p>
-			<button>this is a button</button>
-		</div>
-		<div class="col-sm-4">
-			<h3>All the Features you need</h3>
-			<p>Calendars, events, blog, ecommerce, donations...</p>
+		<div class="col-sm-9">
+			<?php
+		    $a = new Area('Contact Form');
+		    $a->display($c);
+		    ?>
 		</div>
 	</div>
 </div>
