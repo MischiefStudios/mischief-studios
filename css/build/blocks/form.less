@@ -7,6 +7,7 @@
 
 	label {
 		width: 13%;
+		font-size: 1em;
 	}
 
 	input, textarea {
@@ -35,16 +36,9 @@
 	}
 }
 
-  /* Extra Small Devices, Phones */ 
-  @media screen and (min-width: 480px) {
-    .ccm-form label {
-      font-size: 1em;
-    }
-  }
-
-  /* Small Devices, Tablets */
-  @media screen and (min-width: 768px) {
-    .ccm-form label {
-      font-size: 1.3em;
-    }
-  }
+/* Small devices (tablets, 768px and up) */
+@media (min-width: @screen-sm-min) {
+	.ccm-form label {
+		font-size: 1.3em;
+	}
+}
