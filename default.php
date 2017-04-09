@@ -10,7 +10,7 @@
 		<h3><!-- Simple pricing and easy-to-use interfaces. --> Call us for a quote (612)&nbsp;492-1804.</h3>
 	</div>
 </div>
-<div class="services fluid-container">
+<div class="services container-fluid">
 	<div class="row">
       	<div class="col-sm-4">
 			<div class="content">
@@ -54,30 +54,5 @@
 		</div>
 	</div>
 </div>
-<!-- <div class="about">
-	<div class="container">
-		<div class="row">
-			<div class="col-sm-12">
-				<div class="row">
-					<div class="col-sm-12">
-						<h2 class="text-center">Who are we?</h2>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-sm-6">
-						<img src="/"/>
-						<h3>Natasha</h3>
-						<p>Some text can go here about the service. Some text can go here about the service. Some text can go here about the service. Some text can go here about the service. </p>
-					</div>
-					<div class="col-sm-6">
-						<img src="/"/>
-						<h3>Nick</h3>
-						<p>Some text can go here about the service. Some text can go here about the service. Some text can go here about the service. </p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</div> -->
 
 <?php $this->inc('elements/footer.php');
