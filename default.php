@@ -13,40 +13,34 @@
 <div class="services container-fluid">
 	<div class="row">
       	<div class="col-sm-4">
-      		<div class="gutter">
-				<div class="content">
-					<h3>First Impressions</h3>
-					<h2>The first impression says everything.</h2>
-					<p>Nine out of ten consumers rely on the internet to locate and evaluate local goods and services which means that your website is forming their first impression. Using your site to tell a story about you and your business begins the relationship.</p>
-				</div>
-				<picture>
-			        <img class="background" src="<?php echo $view->getThemePath()?>/images/still.png">
-		      	</picture>
-		    </div>
+			<div class="content">
+				<h3>First Impressions</h3>
+				<h2>The first impression says everything.</h2>
+				<p>Nine out of ten consumers rely on the internet to locate and evaluate local goods and services which means that your website is forming their first impression. Using your site to tell a story about you and your business begins the relationship.</p>
+			</div>
+			<picture>
+		        <img class="background" src="<?php echo $view->getThemePath()?>/images/still.png">
+	      	</picture>
       	</div>
       	<div class="col-sm-4">
-      		<div class="gutter">
-				<div class="content">
-					<h3>Custom Solutions</h3>
-					<h2>If there's no problem to be solved, move on.</h2>
-					<p> Whether you need online restaurants reservations, in-store point of service or simply technical knowhow allow us to collaborate and help you improve the efficiency of your business.</p>
-				</div>
-				<picture>
-			        <img class="background" src="<?php echo $view->getThemePath()?>/images/still2.png">
-		      	</picture>
-		    </div>
+			<div class="content">
+				<h3>Custom Solutions</h3>
+				<h2>If there's no problem to be solved, move on.</h2>
+				<p> Whether you need online restaurants reservations, in-store point of service or simply technical knowhow allow us to collaborate and help you improve the efficiency of your business.</p>
+			</div>
+			<picture>
+		        <img class="background" src="<?php echo $view->getThemePath()?>/images/still2.png">
+	      	</picture>
       	</div>
       	<div class="col-sm-4">
-      		<div class="gutter">
-				<div class="content">
-					<h3>Data Based Decisions</h3>
-					<h2>What gets measured, gets improved.</h2>
-					<p>Determine the effectiveness of your site based on real analytical data. Learn about the demographics of your visitors, how they’re finding your site, what’s they’re clicking on and more.</p>
-				</div>
-				<picture>
-			        <img class="background" src="<?php echo $view->getThemePath()?>/images/still3.png">
-		      	</picture>
-		    </div>
+			<div class="content">
+				<h3>Data Based Decisions</h3>
+				<h2>What gets measured, gets improved.</h2>
+				<p>Determine the effectiveness of your site based on real analytical data. Learn about the demographics of your visitors, how they’re finding your site, what’s they’re clicking on and more.</p>
+			</div>
+			<picture>
+		        <img class="background" src="<?php echo $view->getThemePath()?>/images/still3.png">
+	      	</picture>
       	</div>
     </div>
 </div>    
