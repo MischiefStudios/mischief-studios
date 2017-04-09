@@ -26,7 +26,7 @@
 			<div class="content">
 				<h3>Custom Solutions</h3>
 				<h2>If there's no problem to be solved, move on.</h2>
-				<p> Whether you need online restaurants reservations, in-store point of service or simply technical knowhow allow us to collaborate and help you improve the efficiency of your business.</p>
+				<p> Whether you need online restaurants reservations, in-store point of sale or simply technical knowhow allow us to collaborate and help you improve the efficiency of your business.</p>
 			</div>
 			<picture>
 		        <img class="background" src="<?php echo $view->getThemePath()?>/images/still2.png">
