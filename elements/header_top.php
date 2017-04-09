@@ -2,6 +2,9 @@
 <!DOCTYPE html>
 <html lang="<?php echo Localization::activeLanguage() ?>">
 <head>
+
+	<?php $this->inc('elements/analytics_tags_testing.php');?>
+
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE-edge">
 	<!--<link rel="stylesheet" href="<?php echo $view->getThemePath()?>/css/bootstrap-modified.css">-->
@@ -41,7 +44,5 @@ drift.load('z4dvzcnki75t');
 </head>
 
 <body>
-
-<?php $this->inc('elements/analyticstracking.php');?>
 
 <div class="<?php echo $c->getPageWrapperClass()?>">
