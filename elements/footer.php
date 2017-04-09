@@ -1,6 +1,6 @@
 <?php defined('C5_EXECUTE') or die("Access Denied."); ?>
 
-<footer style="clear:both;">
+<footer>
 	<div class="container">
 		<div class="row">
 			<div class="social col-md-3 col-xs-12">
