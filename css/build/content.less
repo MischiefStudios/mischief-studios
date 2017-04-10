@@ -171,31 +171,15 @@ header {
 .hero-content {
   width: 100%;
   height: 100%;
-  padding: 0 10px;
   text-align: center;
   z-index: 2;
   display: block;
   position: relative;
-  padding: 7rem 0; 
+  padding: 7rem 1rem; 
   text-align: center; 
 
-
-  h2 {
-    padding-bottom: 0;
+  h1 {
     color: #fff;
-    font-weight: 300;
-    margin: 0 auto;
-    text-align: center;
-    line-height: 1.1;
-    position: static;
-    text-transform: none;
-    display: block;
-    height: auto;
-    vertical-align: middle;
-    top: 40%;
-    left: 0;
-    width: 100%;
-    max-width: 910px;
   }
   h3 {
     color: #ffffff;
@@ -233,7 +217,7 @@ header {
     flex: 1 0;
     border: .25rem solid transparent;
     min-height: 15rem;
-    padding: 3rem;
+    padding: 1.25rem;
     width: 100%;
   }
   .content {
@@ -353,7 +337,11 @@ footer {
         }
         &.contact-email {
           background-color: @scheme-callout;
-        } 
+        }
+        a:hover {
+          text-decoration: none;
+          color: #000;
+        }
       }
     }
   }
