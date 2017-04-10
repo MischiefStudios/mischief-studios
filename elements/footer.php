@@ -1,23 +1,23 @@
 <?php defined('C5_EXECUTE') or die("Access Denied."); ?>
 
-<footer style="clear:both;">
+<footer>
 	<div class="container">
 		<div class="row">
 			<div class="social col-md-3 col-xs-12">
 				<ul>
 					<li class="social-fb">
-						<a target="_blank" href="https://www.facebook.com/Mischief-Studios-266425877120784/">
-							<img src="<?php echo $view->getThemePath()?>/images/facebook-black-iso.png" alt="Visit Mischief Studios Facebook Page"/>
+						<a target="_blank" href="https://www.facebook.com/Mischief-Studios-266425877120784/" title="Mischief Studios on Facebook">
+							<i class="fa fa-facebook-official fa-2x"></i>
 						</a>
 					</li>
 					<li class="social-in">
-						<a target="_blank" href="https://www.linkedin.com/Mischief-Studios">
-							<img src="<?php echo $view->getThemePath()?>/images/linkedin-black-iso.png" alt="Visit Mischief Studios Linkedin Profile"/>
+						<a target="_blank" href="https://www.linkedin.com/Mischief-Studios" title="Mischief Studios on LinkedIn">
+							<i class="fa fa-linkedin fa-2x"></i>
 						</a>
 					</li>
 					<li class="social-gh">
-						<a target="_blank" href="https://github.com/MischiefStudios">
-							<img src="<?php echo $view->getThemePath()?>/images/github-black-iso.png" alt="Visit Mischief Studios GitHub"/>
+						<a target="_blank" href="https://github.com/MischiefStudios" title="Mischief Studios on GitHub">
+							<i class="fa fa-github fa-2x"></i>
 						</a>
 					</li>
 				</ul>
