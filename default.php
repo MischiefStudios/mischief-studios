@@ -7,7 +7,7 @@
 	<video src="<?php echo $view->getThemePath()?>/images/HomepageBanner.mp4" type="video/mp4" autoplay="" loop="true"></video>
 	<div class="hero-content">
 		<h1>Storytelling through website design and&nbsp;analysis.</h1>
-		<h3><!-- Simple pricing and easy-to-use interfaces. --> Call us for a quote (612)&nbsp;492&#x2011;1804.</h3>
+		<h3><!-- Simple pricing and easy-to-use interfaces. --> Call us for a quote (612)&nbsp;492-1804.</h3>
 	</div>
 </div>
 <div class="services container-fluid">
@@ -25,7 +25,7 @@
       	<div class="col-sm-4">
 			<div class="content">
 				<h3>Custom Solutions</h3>
-				<h2>If there's no problem to be solved, move on.</h2>
+				<h2>No problem to solve? Move on.</h2>
 				<p> Whether you need online restaurants reservations, in-store point of sale or simply technical knowhow allow us to collaborate and help you improve the efficiency of your business.</p>
 			</div>
 			<picture>
