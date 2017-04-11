@@ -7,7 +7,7 @@
 	<video src="<?php echo $view->getThemePath()?>/images/HomepageBanner.mp4" type="video/mp4" autoplay="" loop="true"></video>
 	<div class="hero-content">
 		<h1>Storytelling through website design and&nbsp;analysis.</h1>
-		<h3><!-- Simple pricing and easy-to-use interfaces. --> Call us for a quote (612)&nbsp;492&#8209;1804.</h3>
+		<h3><!-- Simple pricing and easy-to-use interfaces. --> Call us for a quote (612)&nbsp;492&#x2011;1804.</h3>
 	</div>
 </div>
 <div class="services container-fluid">
