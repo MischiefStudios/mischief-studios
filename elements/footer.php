@@ -11,7 +11,7 @@
 						</a>
 					</li>
 					<li class="social-in">
-						<a target="_blank" href="https://www.linkedin.com/Mischief-Studios" title="Mischief Studios on LinkedIn">
+						<a target="_blank" href="https://www.linkedin.com/company/mischiefstudios" title="Mischief Studios on LinkedIn">
 							<i class="fa fa-linkedin fa-2x"></i>
 						</a>
 					</li>
