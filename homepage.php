@@ -10,7 +10,7 @@
             <p>It's simple.</p>
             <!--        <h1>Storytelling through website design and&nbsp;analysis.</h1>-->
             <h3><!-- Simple pricing and easy-to-use interfaces. -->
-                <a href="/contact-us">
+                <a href="/index.php/contact-us">
                     <button>Contact Us</button>
                 </a>
             </h3>
@@ -56,14 +56,14 @@
             <div class="col-sm-6 pad-wrap">
                 <h2>About Mischief Studios</h2>
                 <p>Nick and I (Natasha) are a creative duo, working with like minded partners to provide comprehensive web design and development solutions. We build more than just websites with our engineering backgrounds though. We're problem solvers and we'd love to chat about how to solve your inefficiencies around the office and at home.</p>
-                <a href="/contact-us">
+                <a href="/index.php/contact-us">
                     <button>Get in touch</button>
                 </a>
             </div>
             <div class="col-sm-6 pad-wrap">
                 <h2>Outsource to Mischief Studios</h2>
                 <p>We're excited to tailor our services to meet the needs of our agency partners because it means we get to focus on development! Mischief Studios can come to the table as your development team or work invisibly to support your brand. Provide your project specs and we'll get back to you with a project estimate at our outsource rate.</p>
-                <a href="/partners"></a>
+                <a href="/index.php/partners"></a>
                 <button>Partner with us</button>
                 </a>
             </div>
