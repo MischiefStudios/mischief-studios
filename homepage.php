@@ -63,7 +63,7 @@
             <div class="col-sm-6 pad-wrap">
                 <h2>Outsource to Mischief Studios</h2>
                 <p>We're excited to tailor our services to meet the needs of our agency partners because it means we get to focus on development! Mischief Studios can come to the table as your development team or work invisibly to support your brand. Provide your project specs and we'll get back to you with a project estimate at our outsource rate.</p>
-                <a href="/index.php/partners"></a>
+                <a href="/index.php/partners">
                 <button>Partner with us</button>
                 </a>
             </div>
