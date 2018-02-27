@@ -25,7 +25,7 @@
 			<div class="contact col-md-6 col-xs-12">
 				<ul>
 					<li class="contact-phone">
-						<a href="tel:612.492.1804"><span class="hidden-sm hidden-md hidden-lg">CALL US</span><span class="hidden-xs"> 507-205-4050</span></a>
+						<a href="tel:507-205-4050"><span class="hidden-sm hidden-md hidden-lg">CALL US</span><span class="hidden-xs"> 507-205-4050</span></a>
 					</li>
 					<li class="contact-email">
 						<a href="mailto:contact@mischief-studios.com"><span class="hidden-sm hidden-md hidden-lg">EMAIL US</span><span class="hidden-xs"> contact@mischief-studios.com</span></a>
