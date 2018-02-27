@@ -25,7 +25,7 @@ header {
     .transition(color 0.2s linear);
 
     &:hover {
-      color: darken(#fff, 20%);
+      //color: darken(#fff, 20%);
       text-decoration: none;
     }
   }
@@ -143,6 +143,11 @@ header {
   display: block;
   position: relative;
   margin: 0 0 .25rem;
+
+  .hero-content button {
+    color: #fff;
+    border: 2px solid #fff;
+  }
 
   video {
     display: table-cell;
@@ -265,6 +270,14 @@ header {
 
 .contact {
   /*background-color: #efefef;*/
+}
+
+.main-content {
+  font-size: 20px;
+
+  .pad-wrap {
+    padding: 50px 50px 80px 50px;
+  }
 }
 
 footer {
